@@ -1,2 +1,2 @@
 # SudokuGame
-A Sudoku Game, also can use it to fast solve sudoku
+A sudoku game, also can use it to fast solve sudoku.
